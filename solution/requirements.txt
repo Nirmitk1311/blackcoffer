@@ -1,0 +1,8 @@
+beautifulsoup4
+requests
+openpyxl
+pandas
+nltk
+textblob
+lxml
+selenium 
